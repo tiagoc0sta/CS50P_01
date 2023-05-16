@@ -6,4 +6,4 @@ def hello(to):
 print('Hello World')
 
 
-hello(name)
+hello()
