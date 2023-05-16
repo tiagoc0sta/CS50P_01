@@ -1,6 +1,12 @@
-x=1
-y=2
+def main():
+  x= int(input("what's x?"))
+  print("x squared is", square(x))
 
-z= x+y
 
-print("result is:",z)
+
+def square(n):
+  return pow(n, 2)
+
+
+
+main()
