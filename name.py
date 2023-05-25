@@ -1,3 +1,3 @@
 import sys
 
-print("hello, my name is ", sys.argv[0])
+# print("hello, my name is ", sys.argv[0])
